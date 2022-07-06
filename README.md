@@ -1,6 +1,5 @@
 
 # Hi there! I'm Laura <img src = "img/hello.gif" width = 50px height = 50px>
-I’m a web app development student at IES Gran Capitán.
 
 ## About Me
 
